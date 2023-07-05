@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmolsingh24&label=Profile%20views&color=0e75b6&style=flat" alt="anmolsingh24" /> </p>
 
-<p align="left"> <a href="https://twitter.com/smileymr_ammy" target="blank"><img src="https://img.shields.io/twitter/follow/smileymr_ammy?logo=twitter&style=for-the-badge" alt="smileymr_ammy" /></a> </p>
-
 - 🔭 I’m currently working on **Coding Skills**
 
 - 🌱 I’m currently learning **React, Python**
