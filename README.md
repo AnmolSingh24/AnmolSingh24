@@ -49,7 +49,6 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anmolsingh24&show_icons=true&locale=en" alt="anmolsingh24" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anmolsingh24&" alt="anmolsingh24" /></p>
-)https://in.images.search.yahoo.com/yhs/search;_ylt=AwrKGk9whaVkRlscHyznHgx.;_ylu=Y29sbwMEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=Coding+Banner+image&vm=r&type=fc_ADDA49F0A8D_s58_g_e_d030622_n9998_c24&param1=7&param2=eJwti0sKgzAQQK8ySwsSJx%2FTBo%2FRVREXqaYaEhNRi6Wn7whlNu%2B9mRn90Dbd%2FcERlTCqLbtEboy5EZ4rlKiFIOlJxHngFyKOknFTM6EME4bq6DJlnwjflmjOXx%2BjrWqGUBw%2BDfnYIO3AkWEDFLRq4KPVBeyyRHe4Z%2FB7VcsrkxqKMO1zLCH64GB0fcgX6Kc1z67iXDE8Bzb7sqv%2Fv%2FwADAM7HA%3D%3D&hsimp=yhs-2461&hspart=fc&ei=UTF-8&fr=yhs-fc-2461#id=13&iurl=https%3A%2F%2Fmir-s3-cdn-cf.behance.net%2Fproject_modules%2Fmax_1200%2F79731568097599.5b50bca477735.jpg&action=click
 <h1 align="center">Hi 👋, I'm Anmol Singh</h1>
 <h3 align="center">I love to explore new things</h3>
 <img align="right" alt "Coding" width="400"  src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
