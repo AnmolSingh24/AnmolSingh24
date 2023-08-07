@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **React, Python**
 
-- 💬 Ask me about **C, C++, HTML, CSS, JAVA**
+- 💬 Ask me about **C, C++, HTML, CSS, Javascript, React, Java**
 
 - 📫 How to reach me **as0796348@gmail.com, https://www.linkedin.com/in/anmol-singh2411/**
 
