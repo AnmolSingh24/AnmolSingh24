@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Coding Skills**
 
-- 🌱 I’m currently learning **React, Python**
+- 🌱 I’m currently learning **Mern Stack**
 
-- 💬 Ask me about **C, C++, HTML, CSS, Javascript, React, Java**
+- 💬 Ask me about **C, C++, HTML, Html5, CSS, CSS3, Javascript, React, Java**
 
 - 📫 How to reach me **as0796348@gmail.com, https://www.linkedin.com/in/anmol-singh2411/**
 
