@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **as0796348@gmail.com, https://www.linkedin.com/in/anmol-singh2411/**
 
-- ⚡ Fun fact **In my spare time I listen Musics**
+- ⚡ Fun fact **In my spare time I learn new Skills and explore things**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
