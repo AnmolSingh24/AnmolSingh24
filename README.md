@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **as0796348@gmail.com, https://www.linkedin.com/in/anmol-singh2411/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lH30yA0MtywsjV_t0cXlE7ymjUpqo_Xf/view?usp=drive_link](https://drive.google.com/file/d/1lH30yA0MtywsjV_t0cXlE7ymjUpqo_Xf/view?usp=drive_link)
-
 - ⚡ Fun fact **In my spare time I listen Musics**
 
 <h3 align="left">Connect with me:</h3>
