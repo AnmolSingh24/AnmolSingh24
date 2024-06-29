@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Mern Stack**
 
-- 💬 Ask me about **C, C++, HTML, Html5, CSS, CSS3, Javascript, React, Java**
+- 💬 Ask me about **HTML, Html5, CSS, CSS3, Javascript, React, Java**
 
 - 📫 How to reach me **as0796348@gmail.com, https://www.linkedin.com/in/anmol-singh2411/**
 
@@ -30,9 +30,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/smileymr_ammy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="smileymr_ammy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anmol-singh2411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anmol-singh2411" height="30" width="40" /></a>
-<a href="https://instagram.com/singh_anmol_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="singh_anmol_24" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
